@@ -79,6 +79,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 
 </details>
 
+<br/>
+
 <details open>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6c2.svg" height="22" width="22" alt="🛂"/> Système prédictif de décision de visa — Hi Consulting Immigration</b> <i>(2026)</i></summary>
 
@@ -89,6 +91,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 | **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c8.svg" height="22" width="22" alt="📈"/> Résultats** | Application web de prédiction Entrée Express avec diagnostics IA : **Accuracy 91,37 %** · précision 75,6 % · **ROC-AUC 0,9524** · F1 71,3 % |
 
 </details>
+
+<br/>
 
 <details open>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" height="22" width="22" alt="🛒"/> ComeBuy — Plateforme de marché en ligne (Cameroun)</b> <i>(collaboration)</i></summary>
@@ -101,6 +105,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 
 </details>
 
+<br/>
+
 <details open>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg" height="22" width="22" alt="🤖"/> Chatbot IA SAV pour e-commerce</b></summary>
 
@@ -111,6 +117,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 | **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c8.svg" height="22" width="22" alt="📈"/> Résultats** | Réponses automatisées en temps réel — **temps de réponse réduit à 2 secondes**. |
 
 </details>
+
+<br/>
 
 <details open>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" height="22" width="22" alt="📊"/> GitHub Performance Dashboard</b></summary>
@@ -123,6 +131,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 
 </details>
 
+<br/>
+
 <details open>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f30d.svg" height="22" width="22" alt="🌍"/> Site web — Hi Consulting Immigration</b> <i>(2026)</i></summary>
 
@@ -133,6 +143,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 | **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c8.svg" height="22" width="22" alt="📈"/> Résultats** | CMS complet (vitrine + admin) : **1 500+ événements** enregistrés, **durée d'engagement moyenne de 5 min**. |
 
 </details>
+
+<br/>
 
 <details open>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f504.svg" height="22" width="22" alt="🔄"/> Pipeline ETL complet & Dashboard BI</b></summary>
@@ -145,6 +157,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 
 </details>
 
+<br/>
+
 <details>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" height="22" width="22" alt="🧠"/> MemeGen IA</b></summary>
 
@@ -155,6 +169,8 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 | **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c8.svg" height="22" width="22" alt="📈"/> Résultats** | L'IA analyse l'image uploadée et propose automatiquement **3 légendes humoristiques** adaptées au contenu visuel. |
 
 </details>
+
+<br/>
 
 <details>
 <summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f33e.svg" height="22" width="22" alt="🌾"/> Marché Agricole Local — Application mobile</b></summary>
