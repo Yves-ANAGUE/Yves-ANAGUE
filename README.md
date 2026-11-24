@@ -69,6 +69,17 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 ### 🏆 Projets phares
 
 <details open>
+<summary><b>🎙️ Team WIB.IA — Assistant IA de réunions</b> <i>(WIB — projet d'équipe, branche `yves`)</i></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Chez WIB, la rédaction manuelle des comptes rendus prenait **2 à 3 h par réunion** : ordre du jour manuel, emails de validation un par un, prise de notes, rédaction et diffusion — avec oublis et aucune traçabilité des décisions. |
+| **🛠️ Outils** | `FastAPI` `SQLAlchemy 2.0` `PostgreSQL (Neon)` `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` `React Query` `Groq Whisper` `pyannote.audio` `LLM Groq (rotation 3 clés × 4 modèles)` `Nylas API` `FFmpeg` `Docker` `Vercel` |
+| **📈 Résultats** | Chaîne automatisée en **5 phases** (préparation → validation ODJ → enregistrement → génération IA → validation/diffusion) : compte rendu passé de **2–3 h à 2–5 min**, transcription ~**164× temps réel**, audio en chunks illimités, **4 formats d'export** (DOCX, PDF, XLSX, Markdown), diffusion PDF par email à chaque participant. |
+
+</details>
+
+<details open>
 <summary><b>🛂 Système prédictif de décision de visa — Hi Consulting Immigration</b> <i>(2026)</i></summary>
 
 | | |
@@ -153,17 +164,6 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 | **🎯 Problème** | Faible visibilité des producteurs agricoles locaux. |
 | **🛠️ Outils** | `React Native` `Expo` `JavaScript` `Gemini API` `OpenStreetMap` |
 | **📈 Résultats** | Mise en relation producteurs / acheteurs / transporteurs — **+70 % de visibilité** pour les producteurs. |
-
-</details>
-
-<details open>
-<summary><b>🎙️ Team WIB.IA — Assistant IA de réunions</b> <i>(WIB — projet d'équipe, branche `yves`)</i></summary>
-
-| | |
-|---|---|
-| **🎯 Problème** | Chez WIB, la rédaction manuelle des comptes rendus prenait **2 à 3 h par réunion** : ordre du jour manuel, emails de validation un par un, prise de notes, rédaction et diffusion — avec oublis et aucune traçabilité des décisions. |
-| **🛠️ Outils** | `FastAPI` `SQLAlchemy 2.0` `PostgreSQL (Neon)` `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` `React Query` `Groq Whisper` `pyannote.audio` `LLM Groq (rotation 3 clés × 4 modèles)` `Nylas API` `FFmpeg` `Docker` `Vercel` |
-| **📈 Résultats** | Chaîne automatisée en **5 phases** (préparation → validation ODJ → enregistrement → génération IA → validation/diffusion) : compte rendu passé de **2–3 h à 2–5 min**, transcription ~**164× temps réel**, audio en chunks illimités, **4 formats d'export** (DOCX, PDF, XLSX, Markdown), diffusion PDF par email à chaque participant. |
 
 </details>
 
