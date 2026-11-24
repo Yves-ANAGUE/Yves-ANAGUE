@@ -156,14 +156,14 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 
 </details>
 
-<details>
-<summary><b>🤝 team-wib-ia — Projet IA collaboratif (WIB)</b> <i>(travail d'équipe)</i></summary>
+<details open>
+<summary><b>🎙️ Team WIB.IA — Assistant IA de réunions</b> <i>(WIB — projet d'équipe, branche `yves`)</i></summary>
 
 | | |
 |---|---|
-| **🎯 Problème** | Conception et développement en équipe d'une solution d'intelligence artificielle au sein de WIB. |
-| **🛠️ Outils** | `Python` `FastAPI` `React` `PostgreSQL` `Docker` `GitHub Actions` |
-| **📈 Résultats** | Contributions sur la branche `yves` : développement de fonctionnalités, intégration API et collaboration Git en équipe. |
+| **🎯 Problème** | Chez WIB, la rédaction manuelle des comptes rendus prenait **2 à 3 h par réunion** : ordre du jour manuel, emails de validation un par un, prise de notes, rédaction et diffusion — avec oublis et aucune traçabilité des décisions. |
+| **🛠️ Outils** | `FastAPI` `SQLAlchemy 2.0` `PostgreSQL (Neon)` `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` `React Query` `Groq Whisper` `pyannote.audio` `LLM Groq (rotation 3 clés × 4 modèles)` `Nylas API` `FFmpeg` `Docker` `Vercel` |
+| **📈 Résultats** | Chaîne automatisée en **5 phases** (préparation → validation ODJ → enregistrement → génération IA → validation/diffusion) : compte rendu passé de **2–3 h à 2–5 min**, transcription ~**164× temps réel**, audio en chunks illimités, **4 formats d'export** (DOCX, PDF, XLSX, Markdown), diffusion PDF par email à chaque participant. |
 
 </details>
 
