@@ -1,0 +1,226 @@
+<!-- ══════════════════════════ HEADER ══════════════════════════ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7a6f,50:139a91,100:0a4f48&height=220&section=header&text=Yves%20ANAGUE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Data%20Scientist%20•%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Header"/>
+
+<!-- ══ NAVBAR ══ -->
+<a href="#-à-propos"><img src="https://img.shields.io/badge/À%20propos-0d7a6f?style=for-the-badge&logo=about.me&logoColor=white" alt="À propos"/></a>
+<a href="#️-stack-technique"><img src="https://img.shields.io/badge/Stack-139a91?style=for-the-badge&logo=stackshare&logoColor=white" alt="Stack"/></a>
+<a href="#-projets"><img src="https://img.shields.io/badge/Projets-0d7a6f?style=for-the-badge&logo=github&logoColor=white" alt="Projets"/></a>
+<a href="#-statistiques"><img src="https://img.shields.io/badge/Statistiques-139a91?style=for-the-badge&logo=githubstats&logoColor=white" alt="Stats"/></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/Contact-0d7a6f?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=139A91&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Full-Stack+Developer+%26+Data+Scientist+%F0%9F%9A%80;Je+transforme+des+donn%C3%A9es+en+applications+utiles+%F0%9F%93%8A;IA+%E2%80%A2+Machine+Learning+%E2%80%A2+APIs+%E2%80%A2+Dashboards+%F0%9F%A4%96" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=Yves-ANAGUE&color=139a91&style=flat-square&label=Visiteurs+du+profil" alt="Profile views"/>
+
+</div>
+
+---
+
+## 👨‍💻 À propos
+
+```yaml
+nom: Yves ANAGUE San-Nong
+localisation: Douala, Cameroun 🇨🇲
+formation:
+  - "Master 1 — Data Science | INSTITUT UNIVERSITAIRE SAINT JEAN INGÉNIEUR, Douala (2026–2027)"
+  - "Bachelor 3 — IA & Big Data | Institut Supérieur KEYCE Informatique et IA (2025–2026)"
+role: Développeur Full-Stack & Data Scientist
+passions:
+  - "Concevoir des applications web & mobiles modernes"
+  - "Construire des solutions d'IA prédictive déployées en production"
+  - "Automatiser les pipelines de données de bout en bout"
+objectif: "Générer de la valeur réelle à partir des données et du code"
+```
+
+- 🔭 Je travaille actuellement sur des plateformes web **FastAPI / React** et des **pipelines data**
+- 🌱 J'approfondis le **MLOps**, l'**orchestration de données** et l'architecture **microservices**
+- ⚡ Fait amusant : un de mes modèles de ML prédit des décisions de visa avec **91,37 % d'accuracy**
+
+---
+
+## 🛠️ Stack technique
+
+<div align="center">
+
+### Langages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,r,java,html,css&theme=dark" alt="Langages"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,laravel,tailwind&theme=dark" alt="Frameworks"/>
+
+### Data, IA & BI
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,mysql,postgres,mongodb,sqlite,firebase&theme=dark" alt="Data & IA"/>
+
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Power BI` • `Tableau` • `Talend` • `R`
+
+### DevOps & Outils
+<img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,githubactions,vercel,supabase,vite&theme=dark" alt="DevOps"/>
+
+</div>
+
+---
+
+## 🚀 Projets
+
+> Chaque projet est présenté selon la même structure : **Problème → Outils → Résultats**.
+
+### 🏆 Projets phares
+
+<details open>
+<summary><b>🛂 Système prédictif de décision de visa — Hi Consulting Immigration</b> <i>(2026)</i></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Crédibilité de l'entreprise d'immigration réduite : les conseillers ne pouvaient évaluer objectivement les dossiers de visa. |
+| **🛠️ Outils** | `FastAPI` `Flet` `scikit-learn` `Neon` `OpenRouter` `Brevo` `GitHub Actions` |
+| **📈 Résultats** | Application web de prédiction Entrée Express avec diagnostics IA : **Accuracy 91,37 %** · précision 75,6 % · **ROC-AUC 0,9524** · F1 71,3 % |
+
+</details>
+
+<details open>
+<summary><b>🛒 ComeBuy — Plateforme de marché en ligne (Cameroun)</b> <i>(collaboration)</i></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Absence de plateforme locale pour le commerce en ligne avec livraison à domicile au Cameroun. |
+| **🛠️ Outils** | `Python 3.11` `FastAPI` `React 18` `Tailwind CSS` `PostgreSQL 15` `App mobile` `Vercel` |
+| **📈 Résultats** | Plateforme complète **28 tables** : catalogue, panier, commandes, livraison + application mobile et landing page — déployée sur [comebuy.vercel.app](https://comebuy.vercel.app). |
+
+</details>
+
+<details open>
+<summary><b>🤖 Chatbot IA SAV pour e-commerce</b></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Support client saturé par des demandes répétitives, temps de réponse trop long. |
+| **🛠️ Outils** | `Python` `Django 4.2` `PostgreSQL` `Groq API` `RAG` `REST API` |
+| **📈 Résultats** | Réponses automatisées en temps réel — **temps de réponse réduit à 2 secondes**. |
+
+</details>
+
+<details open>
+<summary><b>📊 GitHub Performance Dashboard</b></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Visualiser et analyser l'activité GitHub d'un développeur en temps réel + démonstrer la maîtrise des paiements asynchrones. |
+| **🛠️ Outils** | `Laravel 11` `PostgreSQL/JSONB` `GitHub OAuth2` `Paystack` `Chart.js` `Docker` `Railway` `PHP 8.3` |
+| **📈 Résultats** | **7+ KPIs temps réel**, 4 graphiques interactifs, tunnel de paiement Mobile Money sandbox opérationnel, **−85 % d'appels API GitHub** grâce au cache. |
+
+</details>
+
+<details open>
+<summary><b>🌍 Site web — Hi Consulting Immigration</b> <i>(2026)</i></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Manque de visibilité des services de l'entreprise d'immigration. |
+| **🛠️ Outils** | `Node.js` `API REST` `Neon` `OpenRouter` `Brevo` `Google Analytics` |
+| **📈 Résultats** | CMS complet (vitrine + admin) : **1 500+ événements** enregistrés, **durée d'engagement moyenne de 5 min**. |
+
+</details>
+
+<details open>
+<summary><b>🔄 Pipeline ETL complet & Dashboard BI</b></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Données de ventes dispersées entre MySQL et Excel — aucune vision consolidée. |
+| **🛠️ Outils** | `Python` `VBA Excel` `Talend Open Studio` `SQL Server` `Power BI` |
+| **📈 Résultats** | Pipeline 100 % automatisé (un clic) : nettoyage → Data Lake → ETL → Data Warehouse. **+10 000 lignes consolidées** depuis 2 sources hétérogènes, dashboard interactif (CA, marge, Top 10 clients, évolution 2014–2017). |
+
+</details>
+
+<details>
+<summary><b>🧠 MemeGen IA</b></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Créer, éditer, sauvegarder et partager des mèmes avec assistance IA. |
+| **🛠️ Outils** | `React 18` `Vite` `Node.js 18` `Express` `Fabric.js` `Groq API` `Supabase` |
+| **📈 Résultats** | L'IA analyse l'image uploadée et propose automatiquement **3 légendes humoristiques** adaptées au contenu visuel. |
+
+</details>
+
+<details>
+<summary><b>🌾 Marché Agricole Local — Application mobile</b></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Faible visibilité des producteurs agricoles locaux. |
+| **🛠️ Outils** | `React Native` `Expo` `JavaScript` `Gemini API` `OpenStreetMap` |
+| **📈 Résultats** | Mise en relation producteurs / acheteurs / transporteurs — **+70 % de visibilité** pour les producteurs. |
+
+</details>
+
+<details>
+<summary><b>🤝 team-wib-ia — Projet IA collaboratif (WIB)</b> <i>(travail d'équipe)</i></summary>
+
+| | |
+|---|---|
+| **🎯 Problème** | Conception et développement en équipe d'une solution d'intelligence artificielle au sein de WIB. |
+| **🛠️ Outils** | `Python` `FastAPI` `React` `PostgreSQL` `Docker` `GitHub Actions` |
+| **📈 Résultats** | Contributions sur la branche `yves` : développement de fonctionnalités, intégration API et collaboration Git en équipe. |
+
+</details>
+
+### 🧩 Autres réalisations
+
+| Projet | Problème | Outils | Résultats |
+|---|---|---|---|
+| **🍲 Cuisine Africaine App** | Difficulté d'organisation des repas au quotidien | `React` `Node.js` `Gemini API` `OpenStreetMap` | Planification des repas en **moins de 5 minutes** |
+| **🏠 A Bon Prix Location** | Absence de plateforme de visibilité pour les services de location | `WordPress` `HTML/CSS` `JavaScript` `Google Analytics` | **50 premiers utilisateurs** acquis |
+| **🌶️ Nd'lo Épices** | Manque de visibilité digitale pour les épices locales | `WordPress` `HTML/CSS` `Google Analytics` | Visibilité en ligne améliorée, **50+ utilisateurs** |
+
+---
+
+## 📊 Statistiques
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yves-ANAGUE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Yves-ANAGUE&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yves-ANAGUE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr" alt="Top Langs"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Yves-ANAGUE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophées"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yves-ANAGUE&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+
+<!-- Animation snake générée automatiquement par GitHub Actions -->
+<img src="https://raw.githubusercontent.com/Yves-ANAGUE/Yves-ANAGUE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
+
+</div>
+
+---
+
+## 💼 Ma façon de travailler
+
+```
+Analyse des besoins → Conception (UML/MERISE) → Développement structuré
+→ Tests & validation → Déploiement → Amélioration continue
+```
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yves-san-nong-anague-5434a738a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvesanague06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yves-ANAGUE)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237671602093)
+
+📍 Douala, Cameroun &nbsp;•&nbsp; 💬 Français · Anglais · Espagnol
+
+**Ouvert aux opportunités : Développement Full-Stack · Data Science · Data Engineering**
+
+</div>
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a4f48,50:139a91,100:0d7a6f&height=140&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer"/>
