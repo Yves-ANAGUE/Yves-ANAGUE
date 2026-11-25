@@ -95,13 +95,13 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 <br/>
 
 <details open>
-<summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" height="22" width="22" alt="🛒"/> ComeBuy — Plateforme de marché en ligne (Cameroun)</b> <i>(collaboration)</i></summary>
+<summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" height="22" width="22" alt="🛒"/> ComeBuy — Plateforme de marché en ligne</b> <i>(projet full stack — 2026)</i></summary>
 
 | | |
 |---|---|
-| **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" height="22" width="22" alt="🎯"/> Problème** | Absence de plateforme locale pour le commerce en ligne avec livraison à domicile au Cameroun. |
-| **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" height="22" width="22" alt="🛠"/> Outils** | `Python 3.11` `FastAPI` `React 18` `Tailwind CSS` `PostgreSQL 15` `App mobile` `Vercel` |
-| **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c8.svg" height="22" width="22" alt="📈"/> Résultats** | Plateforme complète **28 tables** : catalogue, panier, commandes, livraison + application mobile et landing page — déployée sur [comebuy.vercel.app](https://comebuy.vercel.app). |
+| **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3af.svg" height="22" width="22" alt="🎯"/> Problème** | Absence de solution locale pour commander ses produits frais du marché et composer ses plats camerounais en ligne à **Yaoundé et Douala**. |
+| **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6e0.svg" height="22" width="22" alt="🛠"/> Outils** | `React` `Vite` `FastAPI` `SQLAlchemy` `PostgreSQL/SQLite` `Tailwind CSS` `JWT` `NotchPay` `Stripe` `PayPal` |
+| **<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c8.svg" height="22" width="22" alt="📈"/> Résultats** | Marketplace **multi-rôles** (client, admin, agent, livreur) avec **84+ produits**, menus composables ingrédient par ingrédient à **prix recalculé en temps réel**, **4 canaux de paiement** intégrés (Mobile Money, carte, PayPal, espèces), programme de fidélité à **coupons échangeables** et livraison tarifée par **distance et poids** — déployée sur [comebuy.vercel.app](https://comebuy.vercel.app). |
 
 </details>
 
