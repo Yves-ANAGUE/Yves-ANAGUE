@@ -95,7 +95,7 @@ objectif: "Générer de la valeur réelle à partir des données et du code"
 <br/>
 
 <details open>
-<summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" height="22" width="22" alt="🛒"/> ComeBuy — Plateforme de marché en ligne</b> <i>(projet full stack — 2026)</i></summary>
+<summary><b><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6d2.svg" height="22" width="22" alt="🛒"/> ComeBuy — Plateforme de marché en ligne</b> <i>(collaboration — branche `anagu`, 2026)</i></summary>
 
 | | |
 |---|---|
